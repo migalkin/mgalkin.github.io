@@ -132,10 +132,10 @@ for pubsource in publist:
             url = False
             if "url" in b.keys():
                 if len(str(b["url"])) > 5:
-                    md += "\npaperurl: '" + b["url"] + "'"
+                    # md += "\npaperurl: '" + b["url"] + "'"
                     url = True
 
-            md += "\ncitation: '" + html_escape(citation) + "'"
+            # md += "\ncitation: '" + html_escape(citation) + "'"
 
             md += "\n---"
 
