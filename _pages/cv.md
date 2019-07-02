@@ -11,30 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Computer Science, ITMO University, Saint Petersburg, 2014
+* Ph.D in Knowledge Graphs, University of Bonn, 2018 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2015 - 2018: Research Assistant @ Fraunhofer IAIS, Bonn, Germany
+  * Also a member of the [Smart Data Analytics](http://sda.cs.uni-bonn.de/) group at the University of Bonn
+  * Supervisor: Prof. Dr. Sören Auer
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018 - present: Senior Research Scientist @ Fraunhofer IAIS, Dresden, Germany
+  * Still a member of the [Smart Data Analytics](http://sda.cs.uni-bonn.de/) group
+  * Conversational AI group led by [Prof. Dr. Jens Lehmann](http://jens-lehmann.org/)
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -54,6 +43,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
