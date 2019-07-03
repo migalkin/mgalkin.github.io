@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## You can find my articles on
-* <u><a href="https://scholar.google.ru/citations?hl=en&user=yfYRbG4AAAAJ">my Google Scholar profile</a>.</u>
+* <a href="https://scholar.google.ru/citations?hl=en&user=yfYRbG4AAAAJ">Google Scholar</a>
 * <a href="https://dblp.org/pers/hd/g/Galkin:Michael"> DBLP </a>
 
 <!-- {% include base_path %}
