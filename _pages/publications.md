@@ -5,10 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+## You can find my articles on
+* <u><a href="https://scholar.google.ru/citations?hl=en&user=yfYRbG4AAAAJ">my Google Scholar profile</a>.</u>
+* <a href="https://dblp.org/pers/hd/g/Galkin:Michael"> DBLP </a>
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-
-{% include base_path %}
+<!-- {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.publications reversed %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
@@ -17,4 +18,4 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
