@@ -26,7 +26,15 @@
       </div>
     {% endif %}
 
-    <h3 class="archive__item-title" itemprop="headline"> {{ title }}. </h3> {{ post.venue }}. [<a href="{{post.paperurl}}">paper</a>]
+    <h3 class="archive__item-title" itemprop="headline"> {{ title }}. </h3>
+    {% for author in post.authors %}
+      {% if author contains 'Galkin' %}
+         <b>{{author}},</b>
+      {% else %}
+         {{author}},
+      {% endif %}
+    {% endfor %}
+    {{ post.venue }}. [<a href="{{post.paperurl}}">paper</a>]
 
 <!--        {% if post.collection == 'publications' %}-->
 <!--          <p><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>-->
