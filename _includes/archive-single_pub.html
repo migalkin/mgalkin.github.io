@@ -26,7 +26,7 @@
       </div>
     {% endif %}
 
-    <h3 class="archive__item-title" itemprop="headline"> {{title}}. </h3>
+    <h3 class="archive__item-title" itemprop="headline"> {{title}}. </h3> {{authors}}. {{ post.venue }} [<a href="{{post.paperurl}}">paper</a>]
     <!-- {% for author in authors %}
       {% if author contains 'Galkin' %}
          <b>{{author}}</b>
@@ -34,7 +34,7 @@
          {{author}}
       {% endif %}
     {% endfor %} -->
-    {{ post.venue }}. [<a href="{{post.paperurl}}">paper</a>]
+    
 
 <!--        {% if post.collection == 'publications' %}-->
 <!--          <p><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>-->
