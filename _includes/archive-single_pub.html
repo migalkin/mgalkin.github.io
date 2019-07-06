@@ -26,12 +26,12 @@
       </div>
     {% endif %}
 
-    <h3 class="archive__item-title" itemprop="headline"> {{ title }}. </h3>
-    {% for author in post.authors %}
+    <h3 class="archive__item-title" itemprop="headline"> {{title}}. </h3>
+    {% for author in authors %}
       {% if author contains 'Galkin' %}
-         <b>{{author}},</b>
+         <b>{{author}}</b>
       {% else %}
-         {{author}},
+         {{author}}
       {% endif %}
     {% endfor %}
     {{ post.venue }}. [<a href="{{post.paperurl}}">paper</a>]
