@@ -84,10 +84,10 @@ author:
   avatar           : "profile.jpg"
   bio              : "Knowledge Graphs and Conversational AI"
   location         : "Dresden, Germany"
-  employer         :
+  employer         : "Fraunhofer IAIS"
   pubmed           : 
   googlescholar    : "https://scholar.google.ru/citations?user=yfYRbG4AAAAJ&hl=en"
-  email            :
+  email            : "mikhail dot galkin at iais dot fraunhofer dot de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
