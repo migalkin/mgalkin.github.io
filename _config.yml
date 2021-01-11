@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Michael Galkin"
 title_separator          : "-"
 name                     : &name "Michael Galkin"
-description              : &description "Research scientist at Fraunhofer IAIS @ Dresden"
+description              : &description "Postdoctoral Fellow at MILA Quebec & McGill University @ Montreal"
 url                      : https://migalkin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "migalkin.github.io"
@@ -84,12 +84,12 @@ analytics:
 author:
   name             : "Michael Galkin"
   avatar           : "profile.jpg"
-  bio              : "Knowledge Graphs and Conversational AI"
-  location         : "Dresden, Germany"
-  employer         : "Fraunhofer IAIS"
+  bio              : "Knowledge Graphs, GNNs"
+  location         : "Montreal, Canada"
+  employer         : "MILA Quebec & McGill University"
   pubmed           : 
   googlescholar    : "https://scholar.google.ru/citations?user=yfYRbG4AAAAJ&hl=en"
-  email            : "mikhail dot galkin at iais dot fraunhofer dot de"
+  email            : "mikh[nospace]galkin at gmail dot com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "migalkin"
   google_plus      :
   keybase          :
   instagram        :
