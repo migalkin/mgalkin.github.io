@@ -1,6 +1,6 @@
 ---
 title: 'NodePiece - Tokenizing Knowledge Graphs'
-date: 2020-06-24
+date: 2021-06-24
 permalink: /posts/2021/06/24/post/
 tags:
   - tokenization
