@@ -11,18 +11,22 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science, ITMO University, Saint Petersburg, 2014
-* Ph.D in Knowledge Graphs, University of Bonn, 2018 
+* M.Sc. in Computer Science, ITMO University, Saint Petersburg, 2014
+* Ph.D in Computer Science (Knowledge Graphs), University of Bonn, 2018 
 
 Work experience
 ======
+* 2021 - present: Postdoctoral Fellow @ Mila and McGill University, Montreal, Quebec, Canada
+  * Supervisor: William L. Hamilton
+
+* 2018 - 2020: Research Scientist @ Fraunhofer IAIS, Dresden, Germany
+  * Still a member of the [Smart Data Analytics](http://sda.cs.uni-bonn.de/) group
+  * Conversational AI group led by [Prof. Dr. Jens Lehmann](http://jens-lehmann.org/)
+
 * 2015 - 2018: Research Assistant @ Fraunhofer IAIS, Bonn, Germany
   * Also a member of the [Smart Data Analytics](http://sda.cs.uni-bonn.de/) group at the University of Bonn
   * Supervisor: Prof. Dr. Sören Auer
 
-* 2018 - present: Senior Research Scientist @ Fraunhofer IAIS, Dresden, Germany
-  * Still a member of the [Smart Data Analytics](http://sda.cs.uni-bonn.de/) group
-  * Conversational AI group led by [Prof. Dr. Jens Lehmann](http://jens-lehmann.org/)
   
 
 Publications
