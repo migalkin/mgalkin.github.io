@@ -27,7 +27,12 @@ Work experience
   * Also a member of the [Smart Data Analytics](http://sda.cs.uni-bonn.de/) group at the University of Bonn
   * Supervisor: Prof. Dr. Sören Auer
 
-  
+Community Serving
+======  
+* Running the [Mila Graph Representation Learning reading group](https://grlmila.github.io/) together with [Ladislav Rampášek](https://rampasek.github.io/) and [Christopher Morris](https://chrsmrrs.github.io/)
+* Chair of the KG + NLP track at the [Knowledge Graph Conference 2022](https://www.knowledgegraph.tech/)
+* Co-author of the [open KG course](/kgcourse2021/) for Russian-speaking audience
+* Organized the [Panel Discussion](https://2021.connected-data.world/talks/graph-machine-learning-research-and-industry-applications/) on Graph ML and its research and industry applications at Connected Data World 2021
 
 Publications
 ======
@@ -43,5 +48,5 @@ Talks
   
 Teaching
 ======
-  I am one of the authors of the [open Knowledge Graph Course](/kgcourse2021/) for Russian-speaking audience.
+  I am one of the authors of the [open Knowledge Graph Course](/kgcourse2021/) for Russian-speaking audience. The main educational platform for the course is [ods.ai](https://ods.ai/)
   
