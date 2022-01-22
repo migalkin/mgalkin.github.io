@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * 2021 - present: Postdoctoral Fellow @ Mila and McGill University, Montreal, Quebec, Canada
-  * Supervisor: William L. Hamilton
+  * Supervisor: Jian Tang, Reihaneh Rabbany, William L. Hamilton
 
 * 2018 - 2020: Research Scientist @ Fraunhofer IAIS, Dresden, Germany
   * Still a member of the [Smart Data Analytics](http://sda.cs.uni-bonn.de/) group
@@ -37,13 +37,11 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  I am one of the authors of the [open Knowledge Graph Course](/kgcourse2021/) for Russian-speaking audience.
   
