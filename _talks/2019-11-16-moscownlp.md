@@ -8,4 +8,4 @@ date: 2019-11-16
 location: "Moscow, Russia"
 ---
 
-An extended version of the AI Journey talk. [Slides in PDF](/files/Moscow NLP Seminar 2019 Galkin.pdf)
+An extended version of the AI Journey talk. [Slides in PDF](/files/2019/Moscow NLP Seminar 2019 Galkin.pdf)
