@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist at the Dresden branch of Fraunhofer IAIS where we build conversational AI platforms based on knowledge graphs.
-
-My research interests include graphs and networks representations, knowledge-driven dialogue systems, NLP as well as semantic data integration and graph databases.
+I am a postdoc at Mila in Montreal. I work in the graph representation learning domain on GNNs, knowledge graphs, reasoning, and all-things-around Graph ML. I also help to maintain the Telegram channel on Graph ML with all the recent news and paper reviews: https://t.me/graphML 
 
 
