@@ -84,12 +84,12 @@ analytics:
 author:
   name             : "Michael Galkin"
   avatar           : "profile.jpg"
-  bio              : "Knowledge Graphs, GNNs"
-  location         : "Montreal, Canada"
-  employer         : "Mila Quebec & McGill University"
+  bio              : "Graph ML, GNNs, Geometric DL, Knowledge Graphs"
+  location         : "San Diego, US"
+  employer         : "Intel"
   pubmed           : 
-  googlescholar    : "https://scholar.google.ru/citations?user=yfYRbG4AAAAJ&hl=en"
-  email            : "mikhail dot galkin at mila dot quebec"
+  googlescholar    : "https://scholar.google.com/citations?user=yfYRbG4AAAAJ&hl=en"
+  email            : "mikhail dot galkin at intel dot com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
