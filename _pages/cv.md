@@ -11,16 +11,18 @@ redirect_from:
 
 Education
 ======
-* M.Sc. in Computer Science, ITMO University, Saint Petersburg, 2014
 * Ph.D in Computer Science (Knowledge Graphs), University of Bonn, 2018 
+* M.Sc. in Computer Science, ITMO University, Saint Petersburg, 2014
+
 
 Work experience
 ======
-* 2021 - present: Postdoctoral Fellow @ Mila and McGill University, Montreal, Quebec, Canada
+* 2023 - present: AI Research Scientist @ Intel Labs, San Diego, CA, USA
+* 2021 - 2022: Postdoctoral Fellow @ Mila and McGill University, Montreal, Quebec, Canada
   * Supervisor: Jian Tang, Reihaneh Rabbany, William L. Hamilton
 
 * 2018 - 2020: Research Scientist @ Fraunhofer IAIS, Dresden, Germany
-  * Still a member of the [Smart Data Analytics](http://sda.cs.uni-bonn.de/) group
+  * Member of the [Smart Data Analytics](http://sda.cs.uni-bonn.de/) group
   * Conversational AI group led by [Prof. Dr. Jens Lehmann](http://jens-lehmann.org/)
 
 * 2015 - 2018: Research Assistant @ Fraunhofer IAIS, Bonn, Germany
