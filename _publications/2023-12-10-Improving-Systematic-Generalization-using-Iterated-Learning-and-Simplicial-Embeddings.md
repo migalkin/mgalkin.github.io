@@ -5,5 +5,6 @@ permalink: /publication/2023-12-10-Improving-Systematic-Generalization-using-Ite
 date: 2023-12-10
 venue: 'NeurIPS 2023'
 authors: Yi Ren, Samuel Lavoie, <b>Mikhail Galkin</b>, Danica J. Sutherland, Aaron Courville
+paperurl: https://arxiv.org/abs/2310.18777
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Improving+Systematic+Generalization+using+Iterated+Learning+and+Simplicial+Embeddings){:target="_blank"} for full citation
+[Access paper here](https://arxiv.org/abs/2310.18777){:target="_blank"}
