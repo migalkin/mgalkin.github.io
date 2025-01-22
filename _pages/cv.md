@@ -17,7 +17,8 @@ Education
 
 Work experience
 ======
-* 2023 - present: AI Research Scientist @ Intel Labs, San Diego, CA, USA
+* 2024 - now: Senior Research Scientist @ Google Research, NY, USA
+* 2023 - 2024: AI Research Scientist @ Intel Labs, San Diego, CA, USA
 * 2021 - 2022: Postdoctoral Fellow @ Mila and McGill University, Montreal, Quebec, Canada
   * Supervisor: Jian Tang, Reihaneh Rabbany, William L. Hamilton
 

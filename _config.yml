@@ -84,12 +84,12 @@ analytics:
 author:
   name             : "Michael Galkin"
   avatar           : "profile.jpg"
-  bio              : "Graph ML, GNNs, Geometric DL, Knowledge Graphs"
-  location         : "San Diego, US"
-  employer         : "Intel"
+  bio              : "Graph ML, GNNs, Geometric DL, Reasoning"
+  location         : "New York City, US"
+  employer         : "Google"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=yfYRbG4AAAAJ&hl=en"
-  email            : "mikhail dot galkin at intel dot com"
+  email            : "mgalkin at google dot com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
